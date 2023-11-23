@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "ProductConFileSystem",
+    "description": "Persitencia en archivo",
+    "price": 11000,
+    "stock": 200
+  }
+]
